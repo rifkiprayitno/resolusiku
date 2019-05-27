@@ -2,5 +2,5 @@ Resolusi Rifki
 - lebih baik dalma mengelola projek
 - lebih baik dalam memenej resource
 - menikah sebelum 2020
-- membeli laptop dan iphone
 - lebih produktif di mobile app dengan react Native
+- membuat vlogs
