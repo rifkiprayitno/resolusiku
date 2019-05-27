@@ -2,5 +2,6 @@ RENCANA MODUL
 - Javascript
   * ES6
   * React JS
+- Fundamental data structure
 - Node.js
 - ReactNative
