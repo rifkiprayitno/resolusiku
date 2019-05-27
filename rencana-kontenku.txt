@@ -1,4 +1,6 @@
 RENCANA MODUL
 - Javascript
+  * ES6
+  * React JS
 - Node.js
 - ReactNative
